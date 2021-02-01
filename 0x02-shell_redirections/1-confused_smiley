@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "%C3%B4(o)'"
+echo -e "\"(\xc3\x94o)'"
